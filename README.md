@@ -21,10 +21,8 @@
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg" />
 
-
 <br>
-
-
+<br>
 <h2><u>Currently Working On</u></h2>
 <p>An online learning platform focused on the Sri Lankan GCE AL curriculum.</p>
 <br>
