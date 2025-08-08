@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=venom&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:42047e,100:07f49e&text=Hello&section=header&reversal=false&fontAlign=50&fontSize=25&fontColor=000000"/>
 </p>
-
 <!--
 **KenulaNimhan/KenulaNimhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
