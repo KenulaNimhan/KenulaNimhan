@@ -29,8 +29,9 @@
 <br>
 
 <h2>Interested In</h2>
-  <p>Creating Immersive Web Experiences</p>
-  <p>Blockchain + Fintech</p>
+<p>Full Stack Development</p>
+<p>Creating Immersive Web Experiences</p>
+<p>Blockchain + Fintech</p>
 
 
 </div>
