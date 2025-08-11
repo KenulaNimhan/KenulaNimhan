@@ -28,10 +28,9 @@
 <p>An online learning platform focused on the Sri Lankan GCE AL curriculum.</p>
 <br>
 
-<h2><u>Stats</u></h2>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenulaNimhan&layout=compact"/>
-</p>
+<h2>Interested In</h2>
+  <p>Creating Immersive Web Experiences</p>
+  <p>Blockchain + Fintech</p>
 
 
 </div>
