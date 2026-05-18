@@ -5,7 +5,7 @@
 <div align="center">
 
 <h2 style="color:blue;">Introduction</h2>
-<p>A 23 year old Software Engineering Undergraduate from Sri Lanka 🇱🇰 </p>
+<p>Software Engineering Undergraduate from Sri Lanka 🇱🇰 </p>
 <p>portfolio -> <a href="https://kenula.dev/" target="_blank">kenula.dev</a></p>
 
 <br>
