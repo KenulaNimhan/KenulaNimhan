@@ -6,7 +6,7 @@
 
 <h2 style="color:blue;">Introduction</h2>
 <p>Software Engineering Undergraduate from Sri Lanka 🇱🇰 </p>
-<p>portfolio -> <a href="https://kenula.dev/" target="_blank">kenula.dev</a></p>
+<p>portfolio -> <a href="https://portfolio-99fef.web.app/" target="_blank">kenula.dev</a></p>
 
 <br>
 <h2><u>Languages | Frameworks | Tools</u></h2>
